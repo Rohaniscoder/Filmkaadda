@@ -28,7 +28,7 @@ pytz
 dnspython 
 asyncio
 datetime
-python-telegram-bot==12.8
+python-telegram-bot==12.8.1
 
 
 python-math
